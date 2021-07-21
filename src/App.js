@@ -1,7 +1,9 @@
+import Schedular from "./components/Schedular";
+
 function App() {
   return (
     <div className="App">
-      Empty App
+      <Schedular />
     </div>
   );
 }
